@@ -1,3 +1,3 @@
 # hello-world
 My first repository 
-This is y first repisitory 
+This is my first repisitory 
